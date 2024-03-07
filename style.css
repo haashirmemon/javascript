@@ -1,0 +1,67 @@
+body{
+    background-image:url("./v4-460px-Use-a-Calculator-Step-5.jpg.jpeg");
+display: flex;
+
+justify-content:center;
+margin-top: 10%;
+align-items: center;
+color: rgb(0, 0, 0);
+
+  
+}
+div{
+    border: 1px solid black;
+    background-color: aqua;
+}
+h1{
+    color: rgb(255, 0, 0);
+    background-color: yellow;
+  
+}
+p{
+    color: rgb(21, 21, 17);
+    
+}
+#button{
+    background-color: rgb(85, 85, 131);
+    border-radius: 20px;
+
+}
+#button  {
+    background-color: rgb(16, 16, 163);
+    border-radius: 20px;
+    width: 200px;
+    padding:  15px 0;
+    position: relative;
+    border: 2px solid rgb(66, 214, 66);
+    background-color: blue;
+    color: rgb(0, 0, 0);
+    /* margin-right: 20px; */
+    margin-left: 40%;
+}
+#biologymarks{
+    width: 98%;
+    height: 50%;
+}
+#chemistrymarks{
+    width: 98%;
+    height: 50%;
+}
+#mathsmarks{
+     width: 98%;
+    height: 50%;}
+#engmarks{
+     width: 98%;
+    height: 50%;}
+#urdumarks{
+    width: 98%;
+    height: 50%;
+}
+#islmarks{
+    width: 98%;
+    height: 50%;
+}
+#physicsmarks{
+    width: 98%;
+    height: 100%;
+}
